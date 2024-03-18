@@ -1,5 +1,5 @@
 
-[NCAA-Women-Bracket-2024.pdf](https://github.com/deebaby001/March-Madness-2024/files/14635368/NCAA-Women-Bracket-2024.pdf)
+![womens-printable-bracket-filled](https://github.com/deebaby001/March-Madness-2024/assets/14750340/13adfbaf-f89f-4e6f-8b47-9508dd45b601)
 
 
 ![NCAA-Woman-2024](https://github.com/deebaby001/March-Madness-2024/assets/14750340/ca77b795-0e47-48a9-8459-09f8d5439296)
