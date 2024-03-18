@@ -1,4 +1,7 @@
 
+[NCAA-Women-Bracket-2024.pdf](https://github.com/deebaby001/March-Madness-2024/files/14635368/NCAA-Women-Bracket-2024.pdf)
+
+
 ![NCAA-Woman-2024](https://github.com/deebaby001/March-Madness-2024/assets/14750340/ca77b795-0e47-48a9-8459-09f8d5439296)
 
 ![NCAA-ManAsi](https://github.com/deebaby001/March-Madness-2024/assets/14750340/b53ec07d-557d-4fe8-8a59-b33f09932c02)
