@@ -1,0 +1,24 @@
+MARCH MADNESS
+
+This tournament is the preemptive series of games sponsored by the NCAA, the National College Athletic Association in Basketball for the Women's and Men's college basketball teams.
+There will be 67 Wommen's teams and 68 Men's teams
+The tournament will begin: March 19, 2024 
+The tournament will End: April 8, 2024
+
+EDA 
+Predictions
+I will will performing research to find:
+1. Evaulate the variables that may effect the outcome to wins vs losses:
+(a.) Field Goals (made by winning teams and losing teams)
+(b.) 3-Pointers (made by winning teams and losing teams)
+(c.) Turnovers (by winning team and losing teams)
+(d.) Personal Fouls (by winning and losing teams)
+
+NOTE: The data available is not by individual player, it is by group (team).These are group predictions, not individual player predictions, they are by group (team)
+
+I am predicting that the higher the number of variables and the scores, the higher the probability of the winning team to win the entire championship.
+Yet, the higher the probability of Personal Fouls and Turnovers, the higher the probability that you will not win the entire championship.
+
+1. The probability of winning the March Madness Competition sponsored by Kaggle
+2. The use of XG Boosting and creating a log-loss model (Bracket) to use in the 2024 NCAA season that will be a winning prediction.
+ 
