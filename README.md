@@ -16,3 +16,16 @@ Let the fun begin!
 
 # March-Madness-2024
 March Madness, refers to the NCAA Tournament for Women's and Men's College Basketball for the year 2024
+
+This tournament is the preemptive series of games sponsored by the NCAA, the National College Athletic Association in Basketball for the Women's and Men's college basketball teams.
+There will be 67 Wommen's teams and 68 Men's teams
+The tournament will begin: March 19, 2024 
+The tournament will End: April 8, 2024
+
+See My March Madness 2024 Submission:
+https://www.kaggle.com/code/donnahardy/mm-predictions-2024
+
+Citation: 
+Kaggle, Jeff Sonas, Ryan Holbrook, Addison Howard, Anju Kandru. (2024). March Machine Learning Mania 2024. Kaggle. https://kaggle.com/competitions/march-machine-learning-mania-2024
+
+Images of basketball players by Younique AI Designs
